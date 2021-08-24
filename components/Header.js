@@ -68,7 +68,7 @@ const selectionRange = {
                     />
                     <SearchIcon className="hidden md:inline-flex h-8 w-8 bg-red-400 text-white rounded-full p-2 cursor pointer md:mx-2"/>
                 </div>
-                <div>
+                <div className="flex justify-center mt-4">
                     <h3>Built with ❤️   by Diego Zito</h3>
                 </div>
             </div>
